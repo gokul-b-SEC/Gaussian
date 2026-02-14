@@ -9,9 +9,13 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 
 ## Algorithm
 1.Input 
+
 2. Form Augmented Matrix
+
 3. Forward Elimination
+
 4. Back Substitution
+
 5.Output
 
 ## Program:
